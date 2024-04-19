@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body #main-section .subtitle {
+    white-space: normal;
+}
+
+body .card-content {
+    height: 100px;
+}
