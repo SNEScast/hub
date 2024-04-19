@@ -4,7 +4,3 @@
 export NODE_OPTIONS=--openssl-legacy-provider
 
 yarn build
-
-git add *
-git commit -m "Build hub."
-git push
